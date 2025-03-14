@@ -1,5 +1,5 @@
 # DSA-assignments
-group- OYO, Rhona, Lynet
+group- OYO, Rhona, Lynet  and Puis
 
 Question--Write an algorithm to add two numbers entered by a user.
 Algorithm to add two numbers entered by the user
